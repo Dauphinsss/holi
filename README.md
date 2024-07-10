@@ -1,4 +1,4 @@
-# holi
+# Holi
 Prueba de mi 1er proyecto
-##descripción
+## descripción
 Esto es un repositorio de prueba
